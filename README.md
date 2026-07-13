@@ -4,7 +4,7 @@
 
 > The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it. -- Mark Weiser (The Father of Ubiquitous Computing)
 
-**SOURCE CODE WILL NOT BE RELEASED UNTIL GRADED.**
+~~SOURCE CODE WILL NOT BE RELEASED UNTIL GRADED.~~
 
 ## Overview
 
